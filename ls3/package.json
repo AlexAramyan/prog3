@@ -1,0 +1,11 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "no description",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hi\");"
+  },
+  "author": "",
+  "license": "ISC"
+}
