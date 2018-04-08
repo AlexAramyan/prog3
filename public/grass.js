@@ -1,5 +1,6 @@
 class Grass extends LivingCreature{
-    constructor(){
+    constructor(x,y,isAlive){
+        super(x,y,isAlive);
         this.multiply = 0;
         this.speed = 8;
     }

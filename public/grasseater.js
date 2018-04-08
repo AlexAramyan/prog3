@@ -1,5 +1,6 @@
  class Xotaker extends LivingCreature{
     constructor(){
+        super(x,y,isAlive);
         this.multiply = Math.round(random(0, 8));
         this.speed = 0;
         this.directions = [];
